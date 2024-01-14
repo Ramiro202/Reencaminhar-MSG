@@ -1,10 +1,12 @@
 
 from os import system
-from main import WhatsApp
+from pprint import pprint
 from datetime import datetime
 from dotenv import dotenv_values
 from telethon.tl.types import Channel
 from telethon.sync import TelegramClient, events
+
+from main import WhatsApp
 
 
 
@@ -16,7 +18,7 @@ api_hash = env["API_HASH"]
 phone_number = env["PHONE"]
 
 try:
-    client = TelegramClient('', api_id, api_hash)
+    client = TelegramClient('arrombado', api_id, api_hash)
     # Conecte-se à conta do Telegram
     client.connect()
 

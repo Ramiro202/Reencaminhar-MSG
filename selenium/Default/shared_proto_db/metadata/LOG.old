@@ -1,3 +1,2 @@
-2024/01/14-17:06:59.212 83026 Reusing MANIFEST /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/shared_proto_db/metadata/MANIFEST-000001
-2024/01/14-17:06:59.212 83026 Recovering log #3
-2024/01/14-17:06:59.213 83026 Reusing old log /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/shared_proto_db/metadata/000003.log 
+2024/01/14-17:49:54.341 88fc0 Creating DB /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/shared_proto_db/metadata since it was missing.
+2024/01/14-17:49:55.177 88fc0 Reusing MANIFEST /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/shared_proto_db/metadata/MANIFEST-000001

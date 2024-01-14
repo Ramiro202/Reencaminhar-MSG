@@ -1,10 +1,10 @@
-[551445:551445:0114/173343.841914:WARNING:chrome_main_delegate.cc(667)] This is Chrome version 120.0.6099.216 (not a warning)
-[551445:551445:0114/173344.037495:INFO:policy_logger.cc(144)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
-[551445:551445:0114/173344.037589:INFO:policy_logger.cc(144)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
-[551445:551445:0114/173344.185678:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
-[551445:551445:0114/173344.252352:WARNING:cursor_loader.cc(133)] Failed to load a platform cursor of type kNull
-[551474:551474:0114/173344.490246:WARNING:sandbox_linux.cc(400)] InitializeSandbox() called with multiple threads in process gpu-process.
-[551498:551512:0114/173344.505526:ERROR:command_buffer_proxy_impl.cc(127)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
-[551445:551445:0114/173345.342851:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[551445:551445:0114/173345.342974:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[551474:551474:0114/173544.280257:ERROR:gl_display.cc(515)] EGL Driver message (Error) eglCreateContext: Requested GLES version (3.1) is greater than max supported (3, 0).
+[563364:563364:0114/175405.724544:WARNING:chrome_main_delegate.cc(667)] This is Chrome version 120.0.6099.216 (not a warning)
+[563364:563364:0114/175405.967193:INFO:policy_logger.cc(144)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[563364:563364:0114/175405.967295:INFO:policy_logger.cc(144)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[563392:563392:0114/175405.984412:WARNING:sandbox_linux.cc(400)] InitializeSandbox() called with multiple threads in process gpu-process.
+[563364:563364:0114/175406.088959:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[563364:563364:0114/175406.215276:WARNING:cursor_loader.cc(133)] Failed to load a platform cursor of type kNull
+[563364:563364:0114/175412.234430:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[563364:563364:0114/175412.234664:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[563364:563364:0114/175600.387763:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 0, file size:30252975
+[563392:563392:0114/175606.788570:ERROR:gl_display.cc(515)] EGL Driver message (Error) eglCreateContext: Requested GLES version (3.1) is greater than max supported (3, 0).

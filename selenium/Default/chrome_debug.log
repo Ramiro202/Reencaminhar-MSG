@@ -1,6 +1,0 @@
-[0114/170045.559738:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
-[0114/170049.894186:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[0114/170049.894324:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[0114/170100.912431:WARNING:zygote_communication_linux.cc(300)] Error reading message from zygote: Conexão fechada pela outra ponta (104)
-[0114/170100.943689:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
-[0114/170100.943752:WARNING:zygote_communication_linux.cc(302)] Socket closed prematurely.

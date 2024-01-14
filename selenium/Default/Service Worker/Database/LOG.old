@@ -1,3 +1,2 @@
-2024/01/14-17:06:59.210 83009 Reusing MANIFEST /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/Service Worker/Database/MANIFEST-000001
-2024/01/14-17:06:59.211 83009 Recovering log #3
-2024/01/14-17:06:59.211 83009 Reusing old log /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/Service Worker/Database/000003.log 
+2024/01/14-17:50:04.947 88f9b Creating DB /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/Service Worker/Database since it was missing.
+2024/01/14-17:50:05.351 88f9b Reusing MANIFEST /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/Service Worker/Database/MANIFEST-000001

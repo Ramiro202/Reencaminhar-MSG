@@ -19,6 +19,7 @@ class WhatsApp:
         self.url = "https://web.whatsapp.com/"
 
         chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-gpu")
         chrome_options.add_argument("--disable-cache")
         chrome_options.add_argument('--disable-infobars')
         chrome_options.add_argument('--disable-dev-shm-usage')
@@ -45,7 +46,7 @@ class WhatsApp:
             el)
     
     def start(self) -> None:
-
+        sleep(5)
         self.driver.get(self.url)
         while len(self.driver.find_elements(By.XPATH, "//div[@id='side']")) < 1:
             sleep(2)
