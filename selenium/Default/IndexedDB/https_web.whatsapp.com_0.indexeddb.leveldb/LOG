@@ -1,0 +1,25 @@
+2024/01/14-17:06:59.632 83009 Reusing MANIFEST /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/14-17:06:59.635 83009 Recovering log #121
+2024/01/14-17:06:59.637 83009 Reusing old log /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000121.log 
+2024/01/14-17:07:44.096 8300a Level-0 table #127: started
+2024/01/14-17:07:44.198 8300a Level-0 table #127: 1067294 bytes OK
+2024/01/14-17:07:44.228 8300a Delete type=0 #121
+2024/01/14-17:07:44.273 8300a Compacting 1@1 + 2@2 files
+2024/01/14-17:07:44.512 8300a Generated table #128@1: 49527 keys, 2212538 bytes
+2024/01/14-17:07:44.668 8300a Generated table #129@1: 14256 keys, 587996 bytes
+2024/01/14-17:07:44.669 8300a Compacted 1@1 + 2@2 files => 2800534 bytes
+2024/01/14-17:07:44.728 8300a compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/14-17:07:44.729 8300a Delete type=2 #127
+2024/01/14-17:07:44.729 8300a Delete type=2 #123
+2024/01/14-17:07:44.729 8300a Delete type=2 #124
+2024/01/14-17:08:29.133 8300a Level-0 table #131: started
+2024/01/14-17:08:29.286 8300a Level-0 table #131: 1097605 bytes OK
+2024/01/14-17:08:29.353 8300a Delete type=0 #126
+2024/01/14-17:08:30.932 8300a Compacting 1@1 + 2@2 files
+2024/01/14-17:08:31.251 8300a Generated table #132@1: 53390 keys, 2217508 bytes
+2024/01/14-17:08:31.340 8300a Generated table #133@1: 14567 keys, 742988 bytes
+2024/01/14-17:08:31.340 8300a Compacted 1@1 + 2@2 files => 2960496 bytes
+2024/01/14-17:08:31.519 8300a compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/14-17:08:31.519 8300a Delete type=2 #129
+2024/01/14-17:08:31.520 8300a Delete type=2 #131
+2024/01/14-17:08:31.520 8300a Delete type=2 #128

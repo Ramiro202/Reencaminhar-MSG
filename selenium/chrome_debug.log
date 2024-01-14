@@ -1,0 +1,36 @@
+[536571:536571:0114/170658.910235:WARNING:chrome_main_delegate.cc(667)] This is Chrome version 120.0.6099.216 (not a warning)
+[536571:536571:0114/170659.035225:INFO:policy_logger.cc(144)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[536571:536571:0114/170659.035401:INFO:policy_logger.cc(144)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[536571:536571:0114/170659.200284:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[536599:536599:0114/170659.203116:WARNING:sandbox_linux.cc(400)] InitializeSandbox() called with multiple threads in process gpu-process.
+[536571:536571:0114/170659.269813:WARNING:cursor_loader.cc(133)] Failed to load a platform cursor of type kNull
+[536571:536571:0114/170659.906875:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[536571:536571:0114/170659.906993:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[536571:536571:0114/171158.815263:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[536571:536571:0114/171158.854219:WARNING:zygote_communication_linux.cc(302)] Socket closed prematurely.
+[536571:536571:0114/171158.859814:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[536571:536571:0114/171158.860037:WARNING:zygote_communication_linux.cc(302)] Socket closed prematurely.
+[536571:536571:0114/171158.876815:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[536571:536571:0114/171158.877538:WARNING:zygote_communication_linux.cc(302)] Socket closed prematurely.
+[536571:536571:0114/171158.900509:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171158.900857:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 1 time(s)
+[536571:536571:0114/171159.063293:ERROR:network_service_instance_impl.cc(601)] Network service crashed, restarting service.
+[536571:536571:0114/171159.084714:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[536571:536571:0114/171159.084952:WARNING:zygote_communication_linux.cc(302)] Socket closed prematurely.
+[536571:536571:0114/171159.104963:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171159.105252:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 2 time(s)
+[536571:536571:0114/171159.141257:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171159.141462:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 3 time(s)
+[536571:536571:0114/171159.163281:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171159.163554:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 4 time(s)
+[536571:536571:0114/171159.167535:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171159.167582:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 5 time(s)
+[536571:536571:0114/171159.170808:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171159.170886:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 6 time(s)
+[536571:536571:0114/171159.176687:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171159.176972:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 7 time(s)
+[536571:536571:0114/171159.181340:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171159.181505:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 8 time(s)
+[536571:536571:0114/171159.190945:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[536571:536571:0114/171159.191137:WARNING:gpu_process_host.cc(1362)] The GPU process has crashed 9 time(s)
+[536571:536571:0114/171159.191286:FATAL:gpu_data_manager_impl_private.cc(448)] GPU process isn't usable. Goodbye.
