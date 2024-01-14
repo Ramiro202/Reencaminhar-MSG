@@ -1,36 +1,25 @@
-2024/01/14-17:01:15.058 8226c Reusing MANIFEST /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/14-17:01:15.059 8226c Recovering log #108
-2024/01/14-17:01:15.140 8226c Reusing old log /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000108.log 
-2024/01/14-17:01:29.829 82269 Level-0 table #114: started
-2024/01/14-17:01:30.045 82269 Level-0 table #114: 1170537 bytes OK
-2024/01/14-17:01:30.197 82269 Delete type=0 #108
-2024/01/14-17:01:31.276 82266 Compacting 1@1 + 2@2 files
-2024/01/14-17:01:31.764 82266 Generated table #115@1: 47961 keys, 2217253 bytes
-2024/01/14-17:01:31.909 82266 Generated table #116@1: 7493 keys, 194233 bytes
-2024/01/14-17:01:31.909 82266 Compacted 1@1 + 2@2 files => 2411486 bytes
-2024/01/14-17:01:31.937 82266 compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/01/14-17:01:31.938 82266 Delete type=2 #111
-2024/01/14-17:01:31.939 82266 Delete type=2 #114
-2024/01/14-17:01:31.939 82266 Delete type=2 #110
-2024/01/14-17:01:36.572 82266 Level-0 table #118: started
-2024/01/14-17:01:36.763 82266 Level-0 table #118: 1389660 bytes OK
-2024/01/14-17:01:36.827 82266 Delete type=0 #113
-2024/01/14-17:01:36.870 82266 Compacting 1@1 + 2@2 files
-2024/01/14-17:01:37.277 82266 Generated table #119@1: 47452 keys, 2210235 bytes
-2024/01/14-17:01:37.527 82266 Generated table #120@1: 15944 keys, 491764 bytes
-2024/01/14-17:01:37.527 82266 Compacted 1@1 + 2@2 files => 2701999 bytes
-2024/01/14-17:01:37.615 82266 compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/01/14-17:01:42.856 82266 Level-0 table #122: started
-2024/01/14-17:01:43.008 82266 Level-0 table #122: 1026337 bytes OK
-2024/01/14-17:01:43.038 82266 Delete type=2 #116
-2024/01/14-17:01:43.038 82266 Delete type=2 #115
-2024/01/14-17:01:43.038 82266 Delete type=0 #117
-2024/01/14-17:01:43.038 82266 Delete type=2 #118
-2024/01/14-17:01:43.046 82266 Compacting 1@1 + 2@2 files
-2024/01/14-17:01:43.410 82266 Generated table #123@1: 48322 keys, 2210414 bytes
-2024/01/14-17:01:43.489 82266 Generated table #124@1: 13719 keys, 517094 bytes
-2024/01/14-17:01:43.489 82266 Compacted 1@1 + 2@2 files => 2727508 bytes
-2024/01/14-17:01:43.526 82266 compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/01/14-17:01:43.527 82266 Delete type=2 #122
-2024/01/14-17:01:43.527 82266 Delete type=2 #120
-2024/01/14-17:01:43.527 82266 Delete type=2 #119
+2024/01/14-17:06:59.632 83009 Reusing MANIFEST /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/14-17:06:59.635 83009 Recovering log #121
+2024/01/14-17:06:59.637 83009 Reusing old log /home/ngando/Área de trabalho/SAM SAM TECH/selenium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000121.log 
+2024/01/14-17:07:44.096 8300a Level-0 table #127: started
+2024/01/14-17:07:44.198 8300a Level-0 table #127: 1067294 bytes OK
+2024/01/14-17:07:44.228 8300a Delete type=0 #121
+2024/01/14-17:07:44.273 8300a Compacting 1@1 + 2@2 files
+2024/01/14-17:07:44.512 8300a Generated table #128@1: 49527 keys, 2212538 bytes
+2024/01/14-17:07:44.668 8300a Generated table #129@1: 14256 keys, 587996 bytes
+2024/01/14-17:07:44.669 8300a Compacted 1@1 + 2@2 files => 2800534 bytes
+2024/01/14-17:07:44.728 8300a compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/14-17:07:44.729 8300a Delete type=2 #127
+2024/01/14-17:07:44.729 8300a Delete type=2 #123
+2024/01/14-17:07:44.729 8300a Delete type=2 #124
+2024/01/14-17:08:29.133 8300a Level-0 table #131: started
+2024/01/14-17:08:29.286 8300a Level-0 table #131: 1097605 bytes OK
+2024/01/14-17:08:29.353 8300a Delete type=0 #126
+2024/01/14-17:08:30.932 8300a Compacting 1@1 + 2@2 files
+2024/01/14-17:08:31.251 8300a Generated table #132@1: 53390 keys, 2217508 bytes
+2024/01/14-17:08:31.340 8300a Generated table #133@1: 14567 keys, 742988 bytes
+2024/01/14-17:08:31.340 8300a Compacted 1@1 + 2@2 files => 2960496 bytes
+2024/01/14-17:08:31.519 8300a compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/14-17:08:31.519 8300a Delete type=2 #129
+2024/01/14-17:08:31.520 8300a Delete type=2 #131
+2024/01/14-17:08:31.520 8300a Delete type=2 #128

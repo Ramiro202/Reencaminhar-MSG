@@ -1,20 +1,22 @@
 
 from os import system
-from pprint import pprint
+from main import WhatsApp
 from datetime import datetime
+from dotenv import dotenv_values
 from telethon.tl.types import Channel
 from telethon.sync import TelegramClient, events
 
-from main import WhatsApp
 
-system("clear")
+
+system("clear || cls")
 # Configurações do Telegram
-api_id = '7778454'
-phone_number = '+244937829599'
-api_hash = 'f81c4e2bb129ad2eb0121812813e0b70'
+env = dotenv_values(".env")
+api_id = env["API_ID"]
+api_hash = env["API_HASH"]
+phone_number = env["PHONE"]
 
 try:
-    client = TelegramClient('ramiro_ngando', api_id, api_hash)
+    client = TelegramClient('', api_id, api_hash)
     # Conecte-se à conta do Telegram
     client.connect()
 
@@ -23,9 +25,8 @@ except ConnectionError:
     print("\033[1;31mERRO | Falha na conexão a internet\033[m")
     exit()
 
-target_san_san = "-4070575933"
+target_san_san = -4070575933
 target_teste = -1001934936125
-Bot_IQ_Option = "-1001701342561"
 dados = {}
 
 def target_group(chat_id):
